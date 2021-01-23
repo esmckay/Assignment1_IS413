@@ -39,7 +39,7 @@ submit.addEventListener("click", function () {
     else
         letterGrade = "E";
 
-    alert("Final grade = " + finalGrade + " with a letter grade of: " + letterGrade);
+    alert("Final grade = " + finalGrade + "% with a letter grade of: " + letterGrade);
 });
 
 function defaultvalues() {
